@@ -1,0 +1,31 @@
+{
+  "name": "mincraft-query-exec",
+  "version": "1.0.0",
+  "description": "Script to query a minecraft server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakyZ/mincraft-query-exec.git"
+  },
+  "keywords": [
+    "minecraft",
+    "query",
+    "command"
+  ],
+  "author": "Neko Boi Nick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thakyZ/mincraft-query-exec/issues"
+  },
+  "homepage": "https://github.com/thakyZ/mincraft-query-exec#readme",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "minecraft-query": "^1.0.13"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
